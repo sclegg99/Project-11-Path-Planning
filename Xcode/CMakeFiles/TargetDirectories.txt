@@ -1,3 +1,0 @@
-/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/Xcode/CMakeFiles/path_planning.dir
-/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/Xcode/CMakeFiles/ALL_BUILD.dir
-/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/Xcode/CMakeFiles/ZERO_CHECK.dir

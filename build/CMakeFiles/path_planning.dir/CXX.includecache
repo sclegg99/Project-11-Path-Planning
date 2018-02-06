@@ -6,40 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../include/lane_change_FSM.h
-iostream
--
-vector
--
-map
--
-string
--
-ctime
--
-vehicle.h
-../include/vehicle.h
-
-../include/spline.h
-cstdio
--
-cassert
--
-vector
--
-algorithm
--
-
-../include/vehicle.h
-iostream
--
-vector
--
-map
--
-string
--
-
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/json.hpp
 algorithm
 -
@@ -116,6 +82,20 @@ lane_change_FSM.h
 vehicle.h
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/vehicle.h
 
+/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/lane_change_FSM.h
+iostream
+-
+vector
+-
+map
+-
+string
+-
+ctime
+-
+vehicle.h
+/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/vehicle.h
+
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/main.cpp
 fstream
 -
@@ -148,6 +128,16 @@ vehicle.h
 lane_change_FSM.h
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/lane_change_FSM.h
 
+/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/spline.h
+cstdio
+-
+cassert
+-
+vector
+-
+algorithm
+-
+
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/vehicle.cpp
 algorithm
 -
@@ -163,6 +153,16 @@ iterator
 -
 vehicle.h
 /Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/vehicle.h
+
+/Users/sclegg/Self Driving Car/Term 3/CarND-Path-Planning-Project/src/vehicle.h
+iostream
+-
+vector
+-
+map
+-
+string
+-
 
 /usr/local/include/pthread-barrier.h
 errno.h
